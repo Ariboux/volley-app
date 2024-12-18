@@ -1,0 +1,6 @@
+-> Sélectionner sa ligue et son équipe facilement
+-> Voir ses matchs à venir et passés sur la page d'accueil
+-> Voir les prochains matchs avec détails d'un club ou d'une ligue
+-> Pouvoir obtenir l'itinéraire en 1 click
+-> Pouvoir mettre dans son agenda un match à venir/tous les matchs à venir (avec lieu, détail, horaire + marge ?)
+-> Avoir accès au classement (interactif)
